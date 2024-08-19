@@ -146,6 +146,7 @@ std::set<std::string> Command::globleDisableCommands{"authSchemaUpgrade",
                                                      "dbhash",
                                                      "diagLogging",
                                                      "driverOIDTest",
+                                                     "features"
                                                      "getCmdLineOpts",
                                                      "getLog",
                                                      "hostInfo",
